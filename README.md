@@ -1,9 +1,8 @@
 # Fingerprint-Attendance-Alerting-System with Arduino & Raspberry Pi
+A secure, automated attendance system that eliminates proxy attendance using biometric authentication and real-time notifications.
+
 PPT link for the project : https://1drv.ms/p/c/bace7122f432be30/EbbWgGuj3ltOkJ6DFetm7kEBJoC7y5uRVqZMo5-WWWShuA?e=8TLwdP
 
-![Project Banner]([https://via.placeholder.com/800x400?text=Fingerprint+Attendance+Syste](https://1drv.ms/p/c/bace7122f432be30/EbbWgGuj3ltOkJ6DFetm7kEBJoC7y5uRVqZMo5-WWWShuA?e=8TLwdP)) *(Optional: Add actual project image)*
-
-A secure, automated attendance system that eliminates proxy attendance using biometric authentication and real-time notifications.
 
 ## Key Features
 - 🔒 **Biometric Security**: Fingerprint authentication ensures 100% genuine attendance records
@@ -38,3 +37,19 @@ pip install -r requirements.txt
 
 # Configure settings
 cp config.example.py config.py
+
+Usage
+Enroll fingerprints using the enrollment script
+
+Run the main attendance system:
+
+bash
+python start.py
+Access attendance data via:
+
+Email alerts (automatic)
+
+Telegram bot commands:
+
+/start - Initiate bot
+/attendance - Check your records
