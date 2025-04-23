@@ -1,4 +1,5 @@
-# 🔐 Fingerprint Attendance & Alerting System  
+# 🔐 Fingerprint Attendance Alerting System
+
 An **automated biometric attendance solution** built with **Arduino** and **Raspberry Pi**, designed to eliminate proxy attendance, streamline monitoring, and provide real-time alerts via email and Telegram.
 
 📽️ **Presentation**: [Click to View PPT](https://1drv.ms/p/c/bace7122f432be30/EbbWgGuj3ltOkJ6DFetm7kEBJoC7y5uRVqZMo5-WWWShuA?e=8TLwdP)
