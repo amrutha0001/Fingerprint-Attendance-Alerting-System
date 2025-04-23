@@ -1,9 +1,7 @@
-# Fingerprint-Attendance-Alerting-System
+# Fingerprint-Attendance-Alerting-System with Arduino & Raspberry Pi
 PPT link for the project : https://1drv.ms/p/c/bace7122f432be30/EbbWgGuj3ltOkJ6DFetm7kEBJoC7y5uRVqZMo5-WWWShuA?e=8TLwdP
 
-# Fingerprint-Based Attendance System with Arduino & Raspberry Pi
-
-![Project Banner](https://via.placeholder.com/800x400?text=Fingerprint+Attendance+System) *(Optional: Add actual project image)*
+![Project Banner]([https://via.placeholder.com/800x400?text=Fingerprint+Attendance+Syste](https://1drv.ms/p/c/bace7122f432be30/EbbWgGuj3ltOkJ6DFetm7kEBJoC7y5uRVqZMo5-WWWShuA?e=8TLwdP)) *(Optional: Add actual project image)*
 
 A secure, automated attendance system that eliminates proxy attendance using biometric authentication and real-time notifications.
 
